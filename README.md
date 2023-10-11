@@ -87,6 +87,17 @@ iv. Genere un código fuente Java a partir de su modelo de clases.
 ![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/b712716c-0f21-4fbf-9547-b034aa9c0a2a)
 
 
+Codigo copilado
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/a8d9f31e-78ef-4cf3-b863-98222f0ad408)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/ee5634c8-179a-40a3-af78-ab2d8ec20106)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/321ee32e-ba20-46c3-a172-b90b3a02c78f)
+
 
 
 
