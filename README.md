@@ -8,17 +8,21 @@ Fernanda Muñoz
 
 Valentina Huenchuñir
 
+
 Profesor
 
 Dr. Samuel Sepulveda
+
 
 Asignatura
 
 Programación Orientada a Objetos
 
+
 Fecha
 
 11 de octubre de 2023
+
 
 Codigos fuentes:
 
