@@ -55,10 +55,15 @@ Tiene el método mostrarTotal, este es un método que imprime el total del carro
 
 
 iii. De lo anterior, establezca una representación detallada del código fuente, usando un diagrama de clases UML y la herramienta de modelado Visual Paradigm.
-en proceso
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/0185fc5f-c7ab-49d3-8937-64bdbedc755d)
+
 
 
 iv. Genere un código fuente Java a partir de su modelo de clases.
+
+
 
 
 
