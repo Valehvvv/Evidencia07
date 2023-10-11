@@ -63,6 +63,25 @@ iii. De lo anterior, establezca una representación detallada del código fuente
 
 iv. Genere un código fuente Java a partir de su modelo de clases.
 
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/b7fd0197-1f35-4779-8b37-c4c213788c69)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/9dd988ef-6f94-4349-98ee-16e81e107212)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/a4e42f14-d5b0-42f4-af88-fcfa2415d35f)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/2edd05e3-5cbd-4f0a-b7ee-46b353a1b841)
+
+
+![image](https://github.com/Valehvvv/Evidencia07/assets/142464144/b712716c-0f21-4fbf-9547-b034aa9c0a2a)
+
+
+
+
+
+
 
 
 
