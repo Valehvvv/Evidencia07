@@ -3,16 +3,21 @@ link doc: https://docs.google.com/document/d/1vQy9mX0MkM5blpE5vjL6klfZlX8E3fSXrC
 
 Integrantes 
 Maria Jose Powell
+
 Fernanda Muñoz
+
 Valentina Huenchuñir
 
 Profesor
+
 Dr. Samuel Sepulveda
 
 Asignatura
+
 Programación Orientada a Objetos
 
 Fecha
+
 11 de octubre de 2023
 
 Codigos fuentes:
